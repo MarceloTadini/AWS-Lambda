@@ -7,10 +7,10 @@
 ##  :video_game: Tecnologias Utilizadas 
 * JavaScript;
 * Amazon Web Services:
-  ** DynamoDb;
-  ** API Gateway
-  ** Lambda
-* Client URL(CURL)
+  1. DynamoDb;
+  2. API Gateway
+  3. Lambda
+* Client URL (CURL)
 
 ## :rocket: Como executar 
 * Para adicionar um dado:
